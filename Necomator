@@ -78,7 +78,7 @@ local Copyright = Instance.new("TextLabel")
 --Properties:
 
 NecomatorUIChange.Name = "NecomatorUIChange"
-NecomatorUIChange.Parent = game.CoreGui
+NecomatorUIChange.Parent = game.StarterGui
 NecomatorUIChange.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 NecomatorUIChange.ResetOnSpawn = false
 
